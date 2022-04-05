@@ -1,3 +1,9 @@
+; Prompt: Copying a Word Array to a DoubleWord array
+; 	  Write a program that uses a loop to copy all the elements from an unasigned Word (16-bit) array 
+;	  into an unsigned doubleword (32-bit) array
+
+; Solution:
+
 .386
 .model flat,stdcall
 .stack 4096
